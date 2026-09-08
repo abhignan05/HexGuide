@@ -666,7 +666,7 @@ API keys must never be committed to GitHub.
 # 37. Local Setup
 Clone the repository:
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone https://github.com/abhignan05/HexGuide
 cd HexGuide
 ```
 Install dependencies:
